@@ -1,7 +1,3 @@
-<html>
-
-    <?php
-        echo("HOLA GUAPOS")
-    ?>
-
-</html>
+<?php
+    echo("HOLA GUAPOS")
+?>
