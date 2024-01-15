@@ -1,3 +1,4 @@
 <?php
-    echo("HOLA GUAPOS")
+    echo("HOLA GUAPOS");
+    echo("cambio de Doramas");
 ?>
