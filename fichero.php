@@ -13,9 +13,9 @@ while ($i < count($nombres)){
 }
 
 // BUCLE CON FOREACH
-foreach ($nombres as $nombre){
-    echo $nombres."\n";
-    $i++;
-}
+// foreach ($nombres as $nombre){
+    // echo $nombres."\n";
+    // $i++;
+// }
 
 ?>
